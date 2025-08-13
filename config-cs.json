@@ -8,12 +8,12 @@
           "Store": "default"
         },
         "cs": {
-          "Magento-Customer-Group": "16bee469ecb404756a6b5423723d1a10001939a8a35fb14b8c5b45a00707e64f",
-          "Magento-Store-Code": "us_commercial_b2b_store",
-          "Magento-Store-View-Code": "us_commercial_b2b_store_view",
-          "Magento-Website-Code": "us_commercial_b2b",
-          "x-api-key": "b8vy7k3589zq9yjt6jebmudrtx6v469f",
-          "Magento-Environment-Id": "integration2"
+          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base",
+          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
+          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
         }
       },
       "analytics": {
